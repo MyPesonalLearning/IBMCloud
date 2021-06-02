@@ -1,7 +1,7 @@
 const express = require('express');
 const router = express.Router();
 
-const pingController = require('../controllers/pingcontroller');
+const pingController = require('../controllers/pingController');
 const watsonAssistantController = require('../controllers/watsonAssistantController');
 
 router.get('/ping', pingController.getPing);
