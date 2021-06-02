@@ -1,3 +1,4 @@
+---
 applications:
   - name: ea-curso-senpei-1-dev
     memory: 64M
