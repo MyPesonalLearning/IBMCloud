@@ -10,7 +10,7 @@ applications:
     env:
       - API_KEY: 'placeholder'
   - name: ea-curso-senpei-1-prod
-    memory: 256M
+    memory: 128M
     instances: 1
     env:
       - API_KEY: 'placeholder'
